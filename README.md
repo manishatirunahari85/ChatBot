@@ -16,6 +16,3 @@ This project is not open for public contributions at this time.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Testing
-No formal testing procedures have been established for this project.
